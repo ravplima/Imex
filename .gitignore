@@ -1,3 +1,9 @@
+# Log files
+*.log
+
+# Assembly
+.s
+
 # Prerequisites
 *.d
 
