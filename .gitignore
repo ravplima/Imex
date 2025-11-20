@@ -2,7 +2,7 @@
 *.log
 
 # Assembly
-.s
+*.s
 
 # Prerequisites
 *.d
